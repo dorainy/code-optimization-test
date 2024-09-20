@@ -33,7 +33,7 @@ public class Store {
             System.out.println("Rendimiento de ventas bajo");
         }
 
-        scanner.close(); // Cerramos el Scanner para liberar recursos
+        
     }
  }
 
